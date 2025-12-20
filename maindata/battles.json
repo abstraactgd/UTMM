@@ -1064,24 +1064,6 @@
 		"Gold": 1999,
 		"DisableWeapons": false
 	},
-	"Slop_15_2": {
-		"Share": false,
-		"Category": "Ohio",
-		"Legacy": false,
-		"XP": 2165556,
-		"IgnoreUnlessFought": true,
-		"DisableFood": false,
-		"LOVE": 1,
-		"BattleName": "a bunny vs 5 dark colored person",
-		"FragmentChance": 0,
-		"ForcedStats": {
-			"ItemsRestricted": true
-		},
-		"Resets": 0,
-		"MaxPlayers": 6,
-		"Gold": 1949195,
-		"DisableWeapons": false
-	},
 	"RancerOld": {
 		"Share": false,
 		"Category": "Extras",
@@ -1143,25 +1125,6 @@
 		"Gold": 7,
 		"DisableWeapons": false
 	},
-	"Slop_15_1": {
-		"Share": false,
-		"Category": "Ohio",
-		"Legacy": false,
-		"XP": 0,
-		"IgnoreUnlessFought": true,
-		"DisableFood": false,
-		"LOVE": 1,
-		"BattleName": "a bunny vs 5 dark colored person",
-		"FragmentChance": 0,
-		"ForcedStats": {
-			"ItemsRestricted": true
-		},
-		"Resets": 0,
-		"MaxPlayers": 6,
-		"LinkedBattle": "Slop_15_2",
-		"Gold": 0,
-		"DisableWeapons": false
-	},
 	"SpreadingJoyMinigame": {
 		"Share": false,
 		"Category": "Extras",
@@ -1207,25 +1170,6 @@
 		"Resets": 0,
 		"MaxPlayers": 1,
 		"Gold": 7777,
-		"DisableWeapons": false
-	},
-	"Slop_16_1": {
-		"Share": false,
-		"Category": "Ohio",
-		"Legacy": false,
-		"XP": 0,
-		"IgnoreUnlessFought": true,
-		"DisableFood": true,
-		"LOVE": 1,
-		"BattleName": "besar",
-		"FragmentChance": 0,
-		"ForcedStats": {
-			"ItemsRestricted": true
-		},
-		"Resets": 0,
-		"MaxPlayers": 6,
-		"LinkedBattle": "Slop_16_2",
-		"Gold": 0,
 		"DisableWeapons": false
 	},
 	"Toriel": {
@@ -2896,25 +2840,6 @@
 		"Resets": 50,
 		"MaxPlayers": 3,
 		"Gold": 74745745743374750,
-		"DisableWeapons": false
-	},
-	"Slop_16_2": {
-		"Share": false,
-		"Category": "Ohio",
-		"Legacy": false,
-		"XP": 194883,
-		"IgnoreUnlessFought": true,
-		"DisableFood": true,
-		"LOVE": 1,
-		"BattleName": "besar",
-		"FragmentChance": 0,
-		"ForcedStats": {
-			"ItemsRestricted": true
-		},
-		"RewardWeapon": "Slop_7024955090_518",
-		"Resets": 0,
-		"MaxPlayers": 6,
-		"Gold": 175412,
 		"DisableWeapons": false
 	},
 	"CHARA": {
