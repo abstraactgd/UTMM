@@ -1,6 +1,11 @@
 {
 	"Fork": {
 		"Description": "Wow! Fork",
+		"ToolAttributes": {
+			"DamageModify": 30,
+			"Icon": "http://www.roblox.com/asset/?id=183813595",
+			"Damage": 666
+		},
 		"WeaponName": "Comically Large Fork",
 		"Legacy": false,
 		"Attributes": {
@@ -10,6 +15,11 @@
 	},
 	"LeadPipe": {
 		"Description": "Wiw! Lead Oiuipe!",
+		"ToolAttributes": {
+			"DamageModify": 66,
+			"Icon": "http://www.roblox.com/asset/?id=13057134204",
+			"Damage": 707
+		},
 		"WeaponName": "Lead Pipe",
 		"Legacy": false,
 		"Attributes": [],
@@ -17,6 +27,7 @@
 	},
 	"DoggoWeapon": {
 		"Description": "gear thing",
+		"ToolAttributes": [],
 		"WeaponName": "Doge's Custom Weapon",
 		"Legacy": false,
 		"Attributes": [],
@@ -24,6 +35,11 @@
 	},
 	"Spear": {
 		"Description": "spear thing",
+		"ToolAttributes": {
+			"DamageModify": 25,
+			"Icon": "rbxassetid://1890505639",
+			"Damage": 100
+		},
 		"WeaponName": "Undyne's spear",
 		"Legacy": true,
 		"Attributes": {
@@ -33,6 +49,11 @@
 	},
 	"RealKnife": {
 		"Description": "About time. Special Ability unlocked when using Determination and The Locket: by pressing Q/B, you can throw the knife.",
+		"ToolAttributes": {
+			"DamageModify": 20,
+			"Icon": "rbxassetid://406242067",
+			"Damage": 999
+		},
 		"WeaponName": "Real Knife",
 		"Legacy": true,
 		"Attributes": {
@@ -42,6 +63,11 @@
 	},
 	"ToiletStaff": {
 		"Description": "look like he dropy Fun summon thingamajiggy",
+		"ToolAttributes": {
+			"DamageModify": 12,
+			"Icon": "http://www.roblox.com/asset/?id=12878986991",
+			"Damage": 350
+		},
 		"WeaponName": "Toilet Staff",
 		"Legacy": false,
 		"Attributes": [],
@@ -49,6 +75,11 @@
 	},
 	"GBlast": {
 		"Description": "AAAAAAAAA",
+		"ToolAttributes": {
+			"DamageModify": 3,
+			"Icon": "rbxassetid://323497117",
+			"Damage": 10
+		},
 		"WeaponName": "Gaster Blaster",
 		"Legacy": false,
 		"Attributes": {
@@ -58,6 +89,11 @@
 	},
 	"Bacon": {
 		"Description": "OH YES. THAT'S RIGHT. GOOD WEAPON, RIGHT?",
+		"ToolAttributes": {
+			"DamageModify": 35,
+			"Icon": "rbxassetid://1091279830",
+			"Damage": 120
+		},
 		"WeaponName": "BACON",
 		"Legacy": false,
 		"Attributes": {
@@ -67,6 +103,11 @@
 	},
 	"TURTLEAXE": {
 		"Description": "Oh my god. IT'S SONIC.EXE !  !! !! !!! 11111111111111111111111",
+		"ToolAttributes": {
+			"DamageModify": 12,
+			"Icon": "rbxassetid://7310773537",
+			"Damage": 12
+		},
 		"WeaponName": "SCARY AXE",
 		"Legacy": false,
 		"Attributes": {
@@ -76,6 +117,11 @@
 	},
 	"WornDagger": {
 		"Description": "Perfect for cutting plants and vines.",
+		"ToolAttributes": {
+			"DamageModify": 11,
+			"Icon": "rbxassetid://1864941788",
+			"Damage": 175
+		},
 		"WeaponName": "Worn Dagger",
 		"Legacy": true,
 		"Attributes": {
@@ -85,6 +131,11 @@
 	},
 	"SoulSword2": {
 		"Description": "RELEASED BY BOWTIEDPONY",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "rbxassetid://2451795157",
+			"Damage": null
+		},
 		"WeaponName": "SOUL SWORD 2",
 		"Legacy": false,
 		"Attributes": {
@@ -94,6 +145,11 @@
 	},
 	"Balloon": {
 		"Description": "Oh... you're holding it..? Suit yourself. You creature...",
+		"ToolAttributes": {
+			"DamageModify": 18,
+			"Icon": "rbxassetid://210513730",
+			"Damage": 666
+		},
 		"WeaponName": "Springtrap001 Balloon",
 		"Legacy": true,
 		"Attributes": {
@@ -103,6 +159,11 @@
 	},
 	"Scythe": {
 		"Description": "[UNFINISHED] It runs by your trait. Has multiple abilities depending on which soul you are using.",
+		"ToolAttributes": {
+			"DamageModify": 20,
+			"Icon": "",
+			"Damage": 90
+		},
 		"WeaponName": "Scythe",
 		"Legacy": true,
 		"Attributes": {
@@ -112,6 +173,11 @@
 	},
 	"HpyerCrazyStaff": {
 		"Description": "crzvbazxtye staff",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "rbxassetid://94805223343751",
+			"Damage": 0
+		},
 		"WeaponName": "Hpyer Crzay s TUFF. (test weapon)",
 		"Legacy": true,
 		"Attributes": [],
@@ -119,6 +185,11 @@
 	},
 	"SansTestWeapon": {
 		"Description": "For abusing sans",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "rbxassetid://1091279830",
+			"Damage": 1
+		},
 		"WeaponName": "Sans Test weapon",
 		"Legacy": false,
 		"Attributes": [],
@@ -126,6 +197,11 @@
 	},
 	"Devilsknife": {
 		"Description": "Skull-emblazoned scythe-ax.",
+		"ToolAttributes": {
+			"DamageModify": 24,
+			"Icon": "",
+			"Damage": 500
+		},
 		"WeaponName": "Devilsknife",
 		"Legacy": true,
 		"Attributes": {
@@ -135,6 +211,11 @@
 	},
 	"CameraGunForBattle": {
 		"Description": "awasosa gub",
+		"ToolAttributes": {
+			"DamageModify": 25,
+			"Icon": "http://www.roblox.com/asset/?id=9453759453",
+			"Damage": 1000
+		},
 		"WeaponName": "Camera Gun (Battle)",
 		"Legacy": false,
 		"Attributes": [],
@@ -142,6 +223,11 @@
 	},
 	"CandyCane": {
 		"Description": "Oh yes! It's sweet, but fitting.",
+		"ToolAttributes": {
+			"DamageModify": 10,
+			"Icon": "rbxassetid://5",
+			"Damage": 380
+		},
 		"WeaponName": "Candy Cane",
 		"Legacy": true,
 		"Attributes": {
@@ -151,6 +237,11 @@
 	},
 	"TrueKnife": {
 		"Description": "Only knife more true than Real Knife.",
+		"ToolAttributes": {
+			"DamageModify": 19,
+			"Icon": "",
+			"Damage": 7381
+		},
 		"WeaponName": "True Knife.",
 		"Legacy": false,
 		"Attributes": {
@@ -161,6 +252,11 @@
 	},
 	"SPONGEBOBSWORD": {
 		"Description": "(RIP STEPHEN HILLENBURG)",
+		"ToolAttributes": {
+			"DamageModify": 6,
+			"Icon": "rbxassetid://28858311",
+			"Damage": 666
+		},
 		"WeaponName": "SPONGEBOB SWORD",
 		"Legacy": false,
 		"Attributes": {
@@ -170,6 +266,11 @@
 	},
 	"TURTLESWORD": {
 		"Description": "OMGOGMOGMGO SO OP",
+		"ToolAttributes": {
+			"DamageModify": -9,
+			"Icon": "rbxassetid://147039084",
+			"Damage": 99
+		},
 		"WeaponName": "TURTL SWIRD",
 		"Legacy": false,
 		"Attributes": [],
@@ -177,6 +278,11 @@
 	},
 	"BaneStaff": {
 		"Description": "OH MY God.",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "",
+			"Damage": 30000
+		},
 		"WeaponName": "Dasli Staff",
 		"Legacy": false,
 		"Attributes": {
@@ -186,6 +292,9 @@
 	},
 	"LexScythe": {
 		"Description": "Recreate the FNaF 6 ending.",
+		"ToolAttributes": {
+			"Icon": "rbxassetid://523416838"
+		},
 		"WeaponName": "Lighter",
 		"Legacy": false,
 		"Attributes": {
@@ -195,6 +304,11 @@
 	},
 	"TheOhioSlammer": {
 		"Description": "Only in ohio-o-o",
+		"ToolAttributes": {
+			"DamageModify": 23,
+			"Icon": "http://www.roblox.com/asset/?id=14129698514",
+			"Damage": 333
+		},
 		"WeaponName": "The Ohio Slammer",
 		"Legacy": false,
 		"Attributes": {
@@ -204,6 +318,11 @@
 	},
 	"Stick": {
 		"Description": "Its bark is worse than its bite.",
+		"ToolAttributes": {
+			"DamageModify": 1,
+			"Icon": "rbxassetid://1091279830",
+			"Damage": 5
+		},
 		"WeaponName": "Stick",
 		"Legacy": true,
 		"Attributes": {
@@ -213,6 +332,11 @@
 	},
 	"OhioFlag": {
 		"Description": "An OHIOIAN flag.",
+		"ToolAttributes": {
+			"DamageModify": 20,
+			"Icon": "rbxassetid://1091279830",
+			"Damage": 100
+		},
 		"WeaponName": "OHIOIAN Flag",
 		"Legacy": false,
 		"Attributes": {
@@ -222,6 +346,11 @@
 	},
 	"SINZGun": {
 		"Description": "[INFORMATION CORRUPT]",
+		"ToolAttributes": {
+			"DamageModify": 24,
+			"Icon": "rbxassetid://1781481999",
+			"Damage": 295
+		},
 		"WeaponName": "Corrupt Gun",
 		"Legacy": true,
 		"Attributes": {
@@ -231,6 +360,11 @@
 	},
 	"WinnersSword": {
 		"Description": "Taste of your victory.",
+		"ToolAttributes": {
+			"DamageModify": 5,
+			"Icon": "rbxassetid://339177533",
+			"Damage": 1000
+		},
 		"WeaponName": "Sword of Victory",
 		"Legacy": false,
 		"Attributes": [],
@@ -238,6 +372,11 @@
 	},
 	"Slasher": {
 		"Description": "SLASH,.,,.,",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "http://www.roblox.com/asset/?id=836510718",
+			"Damage": 99999
+		},
 		"WeaponName": "Slasher",
 		"Legacy": false,
 		"Attributes": {
@@ -247,6 +386,11 @@
 	},
 	"Trident": {
 		"Description": "trident thing with weird face in it",
+		"ToolAttributes": {
+			"DamageModify": 8,
+			"Icon": "rbxassetid://431627808",
+			"Damage": 340
+		},
 		"WeaponName": "Trident",
 		"Legacy": false,
 		"Attributes": {
@@ -256,6 +400,11 @@
 	},
 	"AuthenticTrident": {
 		"Description": "I don't even know. Buy it i guess? For sure it isn't Asgore's trident.",
+		"ToolAttributes": {
+			"DamageModify": 10,
+			"Icon": "",
+			"Damage": 345
+		},
 		"WeaponName": "Authentic Trident",
 		"Legacy": false,
 		"Attributes": {
@@ -265,6 +414,10 @@
 	},
 	"Michaelnote": {
 		"Description": "WHAT!?!?!? WHY DO YOU HAVE THIS!?!??!?? You foul creature.",
+		"ToolAttributes": {
+			"Icon": "rbxassetid://4948082124",
+			"Damage": "lifelong trauma"
+		},
 		"WeaponName": "MICHAELNOTE",
 		"Legacy": false,
 		"Attributes": [],
@@ -272,6 +425,11 @@
 	},
 	"RancerBlade": {
 		"Description": "Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer",
+		"ToolAttributes": {
+			"DamageModify": 25,
+			"Icon": "rbxassetid://2683757526",
+			"Damage": 2250
+		},
 		"WeaponName": "Rancer Blade",
 		"Legacy": true,
 		"Attributes": {
@@ -281,6 +439,11 @@
 	},
 	"HammerofBadTime": {
 		"Description": "After countless of Sans' murders across the universes, SINZ crafted this powerful weapon. Holding this makes you feel powerful, also sins.",
+		"ToolAttributes": {
+			"DamageModify": 40,
+			"Icon": "rbxassetid://2021903112",
+			"Damage": 600
+		},
 		"WeaponName": "Hammer of Bad Time",
 		"Legacy": false,
 		"Attributes": [],
@@ -288,6 +451,11 @@
 	},
 	"DTBlaster": {
 		"Description": "op thing",
+		"ToolAttributes": {
+			"DamageModify": 99,
+			"Icon": "rbxassetid://338426010",
+			"Damage": 999
+		},
 		"WeaponName": "Determination Blaster",
 		"Legacy": false,
 		"Attributes": {
@@ -297,6 +465,11 @@
 	},
 	"BurntPan": {
 		"Description": "Damage is rather consistent.",
+		"ToolAttributes": {
+			"DamageModify": 8,
+			"Icon": "rbxassetid://1190276823",
+			"Damage": 18
+		},
 		"WeaponName": "Burnt Pan",
 		"Legacy": true,
 		"Attributes": {
@@ -306,6 +479,11 @@
 	},
 	"LastBreathBone": {
 		"Description": "He",
+		"ToolAttributes": {
+			"DamageModify": "Killer",
+			"Icon": "rbxassetid://13218616827",
+			"Damage": "Killer"
+		},
 		"WeaponName": "Last Breatdth SUPER Bone",
 		"Legacy": false,
 		"Attributes": {
@@ -315,6 +493,11 @@
 	},
 	"HyperfireSword": {
 		"Description": "Hyper Fire KIlls All Enemys",
+		"ToolAttributes": {
+			"DamageModify": 100000000,
+			"Icon": "rbxassetid://1091279830",
+			"Damage": 6666666666
+		},
 		"WeaponName": "HyerFire Sword",
 		"Legacy": false,
 		"Attributes": {
@@ -324,6 +507,11 @@
 	},
 	"GrimaceShake": {
 		"Description": "BECOME INFECTED BY THE MILKSHAKE AND GAIN SUPER ABILITIES!",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "rbxassetid://15524095524",
+			"Damage": 0
+		},
 		"WeaponName": "GRIMS MILKSHAKE",
 		"Legacy": false,
 		"Attributes": [],
@@ -331,6 +519,11 @@
 	},
 	"SoundPlayer": {
 		"Description": "With this brand new sound player, your Content will be supreme! But be Warned, it cannot defend you.",
+		"ToolAttributes": {
+			"DamageModify": 23,
+			"Icon": "rbxassetid://17041881541",
+			"Damage": 788
+		},
 		"WeaponName": "Sound Player",
 		"Legacy": false,
 		"Attributes": [],
@@ -338,6 +531,11 @@
 	},
 	"ShrekSword": {
 		"Description": "COMING BACK FROM OFFBRAND UTMM... THE SHREK SWORD!",
+		"ToolAttributes": {
+			"DamageModify": 20,
+			"Icon": "http://www.roblox.com/asset/?id=622803788",
+			"Damage": 100
+		},
 		"WeaponName": "Shrek Sword",
 		"Legacy": false,
 		"Attributes": {
@@ -347,6 +545,11 @@
 	},
 	"BonmuchoCane": {
 		"Description": "Wait.. how did you manage to even obtain this?!?!?!",
+		"ToolAttributes": {
+			"DamageModify": 5,
+			"Icon": "rbxassetid://2179913916",
+			"Damage": 500
+		},
 		"WeaponName": "Hans Moleman's Cane",
 		"Legacy": true,
 		"Attributes": {
@@ -356,6 +559,11 @@
 	},
 	"ToughGlove": {
 		"Description": "A worn pink leather glove. For five fingered folk.",
+		"ToolAttributes": {
+			"DamageModify": 6,
+			"Icon": "rbxassetid://1132215103",
+			"Damage": 13
+		},
 		"WeaponName": "Tough Glove",
 		"Legacy": true,
 		"Attributes": {
@@ -365,6 +573,11 @@
 	},
 	"LegendaryDogSword": {
 		"Description": "So strong. Yes. You know it is good. Hey wait I think it has that artifact inside it.",
+		"ToolAttributes": {
+			"DamageModify": 12,
+			"Icon": "rbxassetid://652692806",
+			"Damage": 1520
+		},
 		"WeaponName": "Legendary dog Sword",
 		"Legacy": true,
 		"Attributes": {
@@ -374,6 +587,9 @@
 	},
 	"BTools": {
 		"Description": "Building!",
+		"ToolAttributes": {
+			"Icon": "rbxassetid://455573525"
+		},
 		"WeaponName": "Building Tools by F3X",
 		"Legacy": false,
 		"Attributes": [],
@@ -381,6 +597,11 @@
 	},
 	"CameraGun": {
 		"Description": "awasosa gub",
+		"ToolAttributes": {
+			"DamageModify": 25,
+			"Icon": "http://www.roblox.com/asset/?id=9453759453",
+			"Damage": 1000
+		},
 		"WeaponName": "Camera Gun",
 		"Legacy": false,
 		"Attributes": {
@@ -390,6 +611,11 @@
 	},
 	"CursedSword": {
 		"Description": "For some reason it was being carried by the master of illusions.. kind of odd...this weapon curses you when you press Q/B (on Xbox)",
+		"ToolAttributes": {
+			"DamageModify": 30,
+			"Icon": "rbxassetid://2507320271",
+			"Damage": 30
+		},
 		"WeaponName": "Cursed Sword",
 		"Legacy": true,
 		"Attributes": {
@@ -399,6 +625,11 @@
 	},
 	"Zombie": {
 		"Description": "andy corpse yt",
+		"ToolAttributes": {
+			"DamageModify": 23,
+			"Icon": "rbxassetid://1091279830",
+			"Damage": 421
+		},
 		"WeaponName": "Zombie Free Model",
 		"Legacy": false,
 		"Attributes": {
@@ -408,6 +639,11 @@
 	},
 	"TOAD": {
 		"Description": "TOAD",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "http://www.roblox.com/asset/?id=9599954008",
+			"Damage": 150
+		},
 		"WeaponName": "TOAD",
 		"Legacy": false,
 		"Attributes": {
@@ -417,6 +653,10 @@
 	},
 	"GreenITEM": {
 		"Description": "The power of GREENS?",
+		"ToolAttributes": {
+			"Icon": "rbxassetid://29712145",
+			"Damage": "1.5%"
+		},
 		"WeaponName": "Greens ITEM",
 		"Legacy": false,
 		"Attributes": [],
@@ -424,6 +664,11 @@
 	},
 	"BellOfHatred": {
 		"Description": "i hate you",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "rbxassetid://56679666",
+			"Damage": 50
+		},
 		"WeaponName": "Bell of Hatred",
 		"Legacy": false,
 		"Attributes": {
@@ -433,6 +678,9 @@
 	},
 	"OhioTractor": {
 		"Description": "you see your super gaming house demolished by a tractor.",
+		"ToolAttributes": {
+			"Icon": "rbxassetid://12281705253"
+		},
 		"WeaponName": "Ohioan Tractor",
 		"Legacy": false,
 		"Attributes": [],
@@ -440,6 +688,11 @@
 	},
 	"ToySword": {
 		"Description": "Made out of plastic.",
+		"ToolAttributes": {
+			"DamageModify": 1,
+			"Icon": "",
+			"Damage": 5
+		},
 		"WeaponName": "Toy Sword",
 		"Legacy": false,
 		"Attributes": {
@@ -449,6 +702,9 @@
 	},
 	"IronManHand": {
 		"Description": "🇺🇸🇺🇸🇺🇸",
+		"ToolAttributes": {
+			"Icon": "rbxassetid://71949840"
+		},
 		"WeaponName": "Airstrike",
 		"Legacy": false,
 		"Attributes": {
@@ -458,6 +714,11 @@
 	},
 	"RainbowStick": {
 		"Description": "*insert clever joke about color here*",
+		"ToolAttributes": {
+			"DamageModify": 12,
+			"Icon": "http://www.roblox.com/asset/?id=115790774",
+			"Damage": 100
+		},
 		"WeaponName": "Rainbow Stick",
 		"Legacy": false,
 		"Attributes": {
@@ -467,6 +728,11 @@
 	},
 	"HAKKSword": {
 		"Description": "Here we go again. Ironically, this weapon is weaker than the stick counterpart.",
+		"ToolAttributes": {
+			"DamageModify": "Random",
+			"Icon": "rbxassetid://1781481999",
+			"Damage": "Random"
+		},
 		"WeaponName": "HAKK Sword",
 		"Legacy": true,
 		"Attributes": {
@@ -476,6 +742,11 @@
 	},
 	"BaseballBat": {
 		"Description": "Brought from school. A bit used.",
+		"ToolAttributes": {
+			"DamageModify": 3,
+			"Icon": "",
+			"Damage": 25
+		},
 		"WeaponName": "Baseball Bat",
 		"Legacy": false,
 		"Attributes": {
@@ -485,6 +756,11 @@
 	},
 	"ULFSword": {
 		"Description": "For some reason when ULF Dummy dropped it. He turned into it so you are taking a good care of it now (even feeding it because it has little mouths for that.)",
+		"ToolAttributes": {
+			"DamageModify": 23,
+			"Icon": "http://www.roblox.com/asset/?id=71463448",
+			"Damage": 788
+		},
 		"WeaponName": "ULF Sword",
 		"Legacy": false,
 		"Attributes": {
@@ -494,6 +770,11 @@
 	},
 	"HyperStaff": {
 		"Description": "for doge only",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "rbxassetid://15160352648",
+			"Damage": 0
+		},
 		"WeaponName": "Staff of Hyperdeath",
 		"Legacy": false,
 		"Attributes": [],
@@ -501,6 +782,11 @@
 	},
 	"IronFist": {
 		"Description": "Rule them with an iron fist. Someone attempted to remake infinity gauntlet, but this was the end result.",
+		"ToolAttributes": {
+			"DamageModify": 35,
+			"Icon": "",
+			"Damage": 350
+		},
 		"WeaponName": "Iron Fist",
 		"Legacy": false,
 		"Attributes": [],
@@ -508,6 +794,11 @@
 	},
 	"CoolSword": {
 		"Description": "HOW THE HELL CAN YOU EVEN USE THIS",
+		"ToolAttributes": {
+			"DamageModify": 10,
+			"Icon": "",
+			"Damage": 50
+		},
 		"WeaponName": "Cool Sword",
 		"Legacy": false,
 		"Attributes": {
@@ -517,6 +808,7 @@
 	},
 	"NikoWeapon": {
 		"Description": "gear thing",
+		"ToolAttributes": [],
 		"WeaponName": "Niko's Custom Weapon",
 		"Legacy": false,
 		"Attributes": [],
@@ -524,6 +816,11 @@
 	},
 	"Fnaf2Camera": {
 		"Description": "ENEGRYES IS INFITE! :D",
+		"ToolAttributes": {
+			"DamageModify": 12,
+			"Icon": "http://www.roblox.com/asset/?id=15158021677",
+			"Damage": 350
+		},
 		"WeaponName": "Fnaf 2 Camera",
 		"Legacy": false,
 		"Attributes": [],
@@ -531,6 +828,11 @@
 	},
 	"NikosBulletHell": {
 		"Description": "wip",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "rbxassetid://15177206767",
+			"Damage": 0
+		},
 		"WeaponName": "NIKOS BULLET HELL DO NOT USE",
 		"Legacy": false,
 		"Attributes": [],
@@ -538,6 +840,11 @@
 	},
 	"ChocolateMilk": {
 		"Description": "You got that from the Dummy Market. Thats the finest chocolate milk they had.",
+		"ToolAttributes": {
+			"DamageModify": 50,
+			"Icon": "http://www.roblox.com/asset/?id=1592444668",
+			"Damage": 100
+		},
 		"WeaponName": "Chocolate Milk",
 		"Legacy": false,
 		"Attributes": {
@@ -547,6 +854,11 @@
 	},
 	"NogginSword": {
 		"Description": "UT MM Lost Media!",
+		"ToolAttributes": {
+			"DamageModify": 12,
+			"Icon": "rbxassetid://2519470573",
+			"Damage": 500
+		},
 		"WeaponName": "Noggin Sword",
 		"Legacy": false,
 		"Attributes": {
@@ -556,6 +868,11 @@
 	},
 	"Drone": {
 		"Description": "Incredible! Drone! Yay!",
+		"ToolAttributes": {
+			"DamageModify": 249,
+			"Icon": "http://www.roblox.com/asset/?id=13067764186",
+			"Damage": 349
+		},
 		"WeaponName": "Drone",
 		"Legacy": false,
 		"Attributes": {
@@ -565,6 +882,11 @@
 	},
 	"CameraRifleForBattle": {
 		"Description": "skelobaba sklobo",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "http://www.roblox.com/asset/?id=14638330425",
+			"Damage": 4500
+		},
 		"WeaponName": "Camera Rifle (Battle)",
 		"Legacy": false,
 		"Attributes": [],
@@ -572,6 +894,11 @@
 	},
 	"ULTIMATEHAMMER": {
 		"Description": "GET THE ULTIMATE HAMMER AND DESTROY THE NPCS!",
+		"ToolAttributes": {
+			"DamageModify": 48989,
+			"Icon": "rbxassetid://15522316155",
+			"Damage": 150099
+		},
 		"WeaponName": "ULTIMATE HAMMER",
 		"Legacy": false,
 		"Attributes": [],
@@ -579,6 +906,9 @@
 	},
 	"NoobzPhone": {
 		"Description": "Idk why i created this",
+		"ToolAttributes": {
+			"Icon": "rbxassetid://274942501"
+		},
 		"WeaponName": "Noobz Phone",
 		"Legacy": false,
 		"Attributes": [],
@@ -586,6 +916,11 @@
 	},
 	"TornNotebook": {
 		"Description": "Contains illegible scrawls.",
+		"ToolAttributes": {
+			"DamageModify": 7,
+			"Icon": "rbxassetid://1841723214",
+			"Damage": 17
+		},
 		"WeaponName": "Torn Notebook",
 		"Legacy": true,
 		"Attributes": {
@@ -595,6 +930,11 @@
 	},
 	"HAKKKnife": {
 		"Description": "After the Unrivaled Lord of HAKK fell, this knife fell out of his pocket. Why was it there? Who knows...",
+		"ToolAttributes": {
+			"DamageModify": "Random",
+			"Icon": "rbxassetid://406242067",
+			"Damage": "Random"
+		},
 		"WeaponName": "HAKK Knife",
 		"Legacy": false,
 		"Attributes": {
@@ -604,6 +944,9 @@
 	},
 	"TheTesseract": {
 		"Description": "Wowza! An object beyond human comprehension! It can be used to transcend your stats to LV 100 Reset 20.",
+		"ToolAttributes": {
+			"Icon": "rbxassetid://13471954439"
+		},
 		"WeaponName": "The Tesseract",
 		"Legacy": false,
 		"Attributes": [],
@@ -611,6 +954,11 @@
 	},
 	"SweetVoice": {
 		"Description": "i'm not human.",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "rbxassetid://4943685377",
+			"Damage": 0
+		},
 		"WeaponName": "Black Mesa Sweet Voice",
 		"Legacy": false,
 		"Attributes": [],
@@ -618,6 +966,11 @@
 	},
 	"HAKKStick": {
 		"Description": "White Evil hakked the monsters and somehow, HAKKED dog dropped this on it's way.",
+		"ToolAttributes": {
+			"DamageModify": "Random",
+			"Icon": "rbxassetid://1091279830",
+			"Damage": "Random"
+		},
 		"WeaponName": "HAKK Stick",
 		"Legacy": true,
 		"Attributes": {
@@ -627,6 +980,11 @@
 	},
 	"MusicalKnife": {
 		"Description": "There's a pipe bomb in your inventory.",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "rbxassetid://2568376330",
+			"Damage": 666
+		},
 		"WeaponName": "Pipe Bomb",
 		"Legacy": false,
 		"Attributes": {
@@ -636,6 +994,11 @@
 	},
 	"CameraRifle": {
 		"Description": "skelobaba sklobo",
+		"ToolAttributes": {
+			"DamageModify": 25,
+			"Icon": "http://www.roblox.com/asset/?id=14638330425",
+			"Damage": 1000
+		},
 		"WeaponName": "Camera Rifle",
 		"Legacy": false,
 		"Attributes": {
@@ -645,6 +1008,11 @@
 	},
 	"PumpkinSickle": {
 		"Description": "It burns with your urge to fight. Press Q/B (on Xbox) to activate fire mode for 10 seconds.",
+		"ToolAttributes": {
+			"DamageModify": 20,
+			"Icon": "rbxassetid://469960985",
+			"Damage": 60
+		},
 		"WeaponName": "Pumpkin Sickle",
 		"Legacy": true,
 		"Attributes": {
@@ -654,6 +1022,11 @@
 	},
 	"BoneAxe": {
 		"Description": "An axe made of bones. How convenient. Press Q/B (on Xbox) to throw 3 but painful bones towards enemies.",
+		"ToolAttributes": {
+			"DamageModify": 20,
+			"Icon": "rbxassetid://2509559049",
+			"Damage": 55
+		},
 		"WeaponName": "Bone Axe",
 		"Legacy": true,
 		"Attributes": {
@@ -663,6 +1036,11 @@
 	},
 	"TRUETURTLEAXE": {
 		"Description": "THE POWER!!! THE GLORY!!!! THE TRUE TURTLES!!!!!!",
+		"ToolAttributes": {
+			"DamageModify": 40,
+			"Icon": "rbxassetid://147039084",
+			"Damage": 240
+		},
 		"WeaponName": "TURTLE AXE",
 		"Legacy": false,
 		"Attributes": {
@@ -672,6 +1050,11 @@
 	},
 	"HammerOfDoom": {
 		"Description": "doom thing",
+		"ToolAttributes": {
+			"DamageModify": 250,
+			"Icon": "http://www.roblox.com/asset/?id=1256305",
+			"Damage": 3000
+		},
 		"WeaponName": "Hammer of Doom",
 		"Legacy": false,
 		"Attributes": {
@@ -681,6 +1064,11 @@
 	},
 	"EmptyGun": {
 		"Description": "An antique revolver. It has no ammo.",
+		"ToolAttributes": {
+			"DamageModify": 9,
+			"Icon": "rbxassetid://1190284673",
+			"Damage": 19
+		},
 		"WeaponName": "Empty Gun",
 		"Legacy": true,
 		"Attributes": {
@@ -690,6 +1078,11 @@
 	},
 	"ToyKnife": {
 		"Description": "Made of plastic. A rarity nowadays.",
+		"ToolAttributes": {
+			"DamageModify": 3,
+			"Icon": "rbxassetid://1091285659",
+			"Damage": 7
+		},
 		"WeaponName": "Toy Knife",
 		"Legacy": true,
 		"Attributes": {
@@ -699,6 +1092,11 @@
 	},
 	"CorruptKatana": {
 		"Description": "[INFORMATION CORRUPT]",
+		"ToolAttributes": {
+			"DamageModify": 25,
+			"Icon": "rbxassetid://1781481999",
+			"Damage": 750
+		},
 		"WeaponName": "Corrupt Katana",
 		"Legacy": true,
 		"Attributes": {
@@ -708,6 +1106,11 @@
 	},
 	"EPICStick": {
 		"Description": "OKAY, THIS IS The Bird.",
+		"ToolAttributes": {
+			"DamageModify": 66,
+			"Icon": "rbxassetid://4948082124",
+			"Damage": 66
+		},
 		"WeaponName": "The Bird Stick",
 		"Legacy": false,
 		"Attributes": {
@@ -717,6 +1120,11 @@
 	},
 	"TURTLESWORD2": {
 		"Description": "WHAT..? IT'S ACTUALLY DAMAGING?!?!!?",
+		"ToolAttributes": {
+			"DamageModify": 4,
+			"Icon": "rbxassetid://147039084",
+			"Damage": 24
+		},
 		"WeaponName": "TURTLE SWORD 2",
 		"Legacy": true,
 		"Attributes": {
@@ -726,6 +1134,9 @@
 	},
 	"SubspaceTripmine": {
 		"Description": "fnb referernce.........",
+		"ToolAttributes": {
+			"Icon": "http://www.roblox.com/asset/?id=11987521"
+		},
 		"WeaponName": "Subspace Tripmine",
 		"Legacy": false,
 		"Attributes": {
@@ -735,6 +1146,11 @@
 	},
 	"ORANGEKNIFE": {
 		"Description": "THE ONE USED TO ASSASSINATE ANDY",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "rbxassetid://632272850",
+			"Damage": 666
+		},
 		"WeaponName": "HIS KNIFE",
 		"Legacy": false,
 		"Attributes": {
@@ -744,6 +1160,9 @@
 	},
 	"Bones": {
 		"Description": "WHAT IS THIS WEAPON?!?!?!",
+		"ToolAttributes": {
+			"Icon": "rbxassetid://431627808"
+		},
 		"WeaponName": "Bones",
 		"Legacy": false,
 		"Attributes": [],
@@ -751,6 +1170,9 @@
 	},
 	"InfinityGauntlet": {
 		"Description": "op thing",
+		"ToolAttributes": {
+			"Icon": "rbxassetid://1558786405"
+		},
 		"WeaponName": "Infinity Gauntlet",
 		"Legacy": false,
 		"Attributes": [],
@@ -758,6 +1180,11 @@
 	},
 	"BalletShoes": {
 		"Description": "These used shoes make you feel incredibly dangerous.",
+		"ToolAttributes": {
+			"DamageModify": 6,
+			"Icon": "rbxassetid://1883618330",
+			"Damage": 16
+		},
 		"WeaponName": "Ballet Shoes",
 		"Legacy": true,
 		"Attributes": {
@@ -767,6 +1194,11 @@
 	},
 	"PILLOW": {
 		"Description": "IT'S A PIECE OF ME.",
+		"ToolAttributes": {
+			"DamageModify": 66,
+			"Icon": "rbxassetid://971365515",
+			"Damage": 666
+		},
 		"WeaponName": "PILLOW",
 		"Legacy": true,
 		"Attributes": {
@@ -776,6 +1208,11 @@
 	},
 	"YTsword": {
 		"Description": "OH YES! That's right! this is the sword!",
+		"ToolAttributes": {
+			"DamageModify": 23,
+			"Icon": "",
+			"Damage": 705
+		},
 		"WeaponName": "Youtuber Sword",
 		"Legacy": false,
 		"Attributes": {
@@ -785,6 +1222,11 @@
 	},
 	"HolyStick": {
 		"Description": "THE HOLIEST WEAPON OF THEM ALL",
+		"ToolAttributes": {
+			"DamageModify": 2,
+			"Icon": "rbxassetid://1091279830",
+			"Damage": 6
+		},
 		"WeaponName": "THE HOLY STICK",
 		"Legacy": true,
 		"Attributes": {
@@ -794,6 +1236,11 @@
 	},
 	"TheMoon": {
 		"Description": "DO NOT USE.",
+		"ToolAttributes": {
+			"DamageModify": 0,
+			"Icon": "http://www.roblox.com/asset/?id=6480185475",
+			"Damage": null
+		},
 		"WeaponName": "Moon",
 		"Legacy": false,
 		"Attributes": {
@@ -803,6 +1250,11 @@
 	},
 	"Ambulance": {
 		"Description": "Ambualcne",
+		"ToolAttributes": {
+			"DamageModify": 25,
+			"Icon": "http://www.roblox.com/asset/?id=302953037",
+			"Damage": 100
+		},
 		"WeaponName": "Ambulance",
 		"Legacy": false,
 		"Attributes": {
