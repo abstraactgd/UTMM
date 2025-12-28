@@ -1,0 +1,312 @@
+{
+	"OldTutu": {
+		"Attributes": [],
+		"Description": "Finally, a protective piece of armor",
+		"Permanent": false,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 9,
+		"ArmorName": "Old Tutu"
+	},
+	"DiamondArmor": {
+		"Attributes": [],
+		"Description": "This was last used 5 years ago.",
+		"Permanent": true,
+		"Icon": 1297107409,
+		"Legacy": false,
+		"HPBonus": 666,
+		"ArmorName": "Sans UT RP Mesh Springlock Suit"
+	},
+	"HoboAsgore": {
+		"Attributes": [],
+		"Description": "For your determination through the year, Hobo Asgore personally gave you his own head. Don't worry, he regenerated it.",
+		"Permanent": true,
+		"Icon": 1882735436,
+		"Legacy": true,
+		"HPBonus": 127,
+		"ArmorName": "Hobo Asgore's head"
+	},
+	"JevilTail": {
+		"Attributes": [],
+		"Description": "A J-Shaped tail that gives you devilenergy.",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 54,
+		"ArmorName": "Jevilstail"
+	},
+	"CloudyGlasses": {
+		"Attributes": [],
+		"Description": "Glasses marred with wear. Makes you invulnerable for 0.2 seconds every time you get hurt .",
+		"Permanent": false,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 7,
+		"ArmorName": "Cloudy Glasses"
+	},
+	"SansJacket": {
+		"Attributes": [],
+		"Description": "Sacred.",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": false,
+		"HPBonus": 666,
+		"ArmorName": "Sans UT MM's jacket."
+	},
+	"FadedRibbon": {
+		"Attributes": [],
+		"Description": "If you're cuter, monsters wont' hit you as hard.",
+		"Permanent": false,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 5,
+		"ArmorName": "Faded Ribbon"
+	},
+	"GasterEgg": {
+		"Attributes": [],
+		"Description": "[REDACTED]",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 40,
+		"ArmorName": "MysteryManEgg"
+	},
+	"springtrap001_hat": {
+		"Attributes": [],
+		"Description": "WHAT?! HE TRICKED US?! HE SURVIVED?! FIGHT HIM AGAIN. MAKE SURE HE DIES PROPERLY THIS TIME.",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": -1,
+		"ArmorName": "FAKE LEGENDARY 2015 HAT!"
+	},
+	"TheLocket": {
+		"Attributes": [],
+		"Description": "You can feel it beating.",
+		"Permanent": false,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 115,
+		"ArmorName": "The Locket"
+	},
+	"DogEgg": {
+		"Attributes": [],
+		"Description": "I get the feeling you worked too hard for this.",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 28,
+		"ArmorName": "Dog egg"
+	},
+	"CowboyHat": {
+		"Attributes": [],
+		"Description": "This battle-worn hat makes you want to grow a beard. It also raises damage a little bit.",
+		"Permanent": false,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 12,
+		"ArmorName": "Cowboy Hat"
+	},
+	"TurtleShell": {
+		"Attributes": [],
+		"Description": "SOME SAY SANTA WRESTLED A TURTLE TO  GET THIS SHELL",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": false,
+		"HPBonus": 18,
+		"ArmorName": "LEGENDARY TURTLE SHELL"
+	},
+	"StainedApron": {
+		"Attributes": [],
+		"Description": "Heals 1 HP every 3 seconds.",
+		"Permanent": false,
+		"Icon": 1190289076,
+		"Legacy": true,
+		"HPBonus": 13,
+		"ArmorName": "Stained Apron"
+	},
+	"LexHead": {
+		"Attributes": {
+			"Restricted": true
+		},
+		"Description": "Burn a painful death.",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": false,
+		"HPBonus": 0,
+		"ArmorName": "Fire"
+	},
+	"HeartLocket": {
+		"Attributes": [],
+		"Description": "It says \"Best Friends Forever.\"",
+		"Permanent": false,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 15,
+		"ArmorName": "Heart Locket"
+	},
+	"GnomeChomski": {
+		"Attributes": [],
+		"Description": "ha he!",
+		"Permanent": true,
+		"Icon": 12351812686,
+		"Legacy": false,
+		"HPBonus": 0,
+		"ArmorName": "Gnome Chompski"
+	},
+	"AnnoyingOrange": {
+		"Attributes": [],
+		"Description": "Hey apple, knife",
+		"Permanent": false,
+		"Icon": 6597385266,
+		"Legacy": false,
+		"HPBonus": 713.123123,
+		"ArmorName": "annoying orange 😛😛😛😛🤩🤩🤗🙂🙂☺"
+	},
+	"OWO707": {
+		"Attributes": [],
+		"Description": "owo what this?",
+		"Permanent": true,
+		"Icon": 2270075329,
+		"Legacy": false,
+		"HPBonus": 707,
+		"ArmorName": "OwO Box 707"
+	},
+	"ShoebillBlock": {
+		"Attributes": [],
+		"Description": "The Bird.",
+		"Permanent": true,
+		"Icon": 4948081499,
+		"Legacy": false,
+		"HPBonus": 166,
+		"ArmorName": "The Bird Armor"
+	},
+	"Bandage": {
+		"Attributes": [],
+		"Description": "It has already been used many times.",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 0,
+		"ArmorName": "Bandage"
+	},
+	"BrazilFlag": {
+		"Attributes": [],
+		"Description": "You're going to Brazil",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": false,
+		"HPBonus": 150,
+		"ArmorName": "Brazil"
+	},
+	"DemonCore": {
+		"Attributes": {
+			"Restricted": true
+		},
+		"Description": "WOAAAAAAAH AWESOME 😃",
+		"Permanent": true,
+		"Icon": 9252829789,
+		"Legacy": false,
+		"HPBonus": 100,
+		"ArmorName": "Demon Core"
+	},
+	"PumpkinHead": {
+		"Attributes": [],
+		"Description": "Wear it. Also don't complain when you feel a slight burning on your face. that's just the fire inside the jack-o-lantern.Gives a small damage boost and heals when damaged. Also heals you by 1 every 7  seconds.",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 22,
+		"ArmorName": "Jack-O-Lantern head"
+	},
+	"ManlyBandanna": {
+		"Attributes": [],
+		"Description": "It has seen some wear. It has abs drawn on it.",
+		"Permanent": false,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 7,
+		"ArmorName": "Manly Bandanna"
+	},
+	"Realspringtrap001_hat": {
+		"Attributes": [],
+		"Description": "springtrap001's hat but.. purified?",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 95,
+		"ArmorName": "Legendary 2015 hat"
+	},
+	"GnomeHat": {
+		"Attributes": [],
+		"Description": "This item is cursed. WHY ARE YOU USING IT?",
+		"Permanent": true,
+		"Icon": 2519470573,
+		"Legacy": true,
+		"HPBonus": 99,
+		"ArmorName": "Gnome hat"
+	},
+	"Rancer": {
+		"Attributes": [],
+		"Description": "Ah yes! The rizzin' \"head\" of Rancer! Just kidding, Rancer gave you a very small amount of his Ohio rizz to give you a sigma head that hates every enemy.",
+		"Permanent": true,
+		"Icon": 3219977927,
+		"Legacy": true,
+		"HPBonus": 250,
+		"ArmorName": "Rancer Head"
+	},
+	"TemmieArmor": {
+		"Attributes": [],
+		"Description": "The things you can do with a college education! Raises ATTACK by 10  when worn. Recovers 1 HP every 3 seconds.",
+		"Permanent": false,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 20,
+		"ArmorName": "Temmie Armor"
+	},
+	"FloweyHead": {
+		"Attributes": [],
+		"Description": "no",
+		"Permanent": true,
+		"Icon": 666,
+		"Legacy": false,
+		"HPBonus": 0,
+		"ArmorName": "flour"
+	},
+	"SANSUNDERTALE": {
+		"Attributes": [],
+		"Description": "YES",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": false,
+		"HPBonus": 666,
+		"ArmorName": "SANS UNDERTALE"
+	},
+	"TrueLocket": {
+		"Attributes": [],
+		"Description": "yes",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": false,
+		"HPBonus": 204,
+		"ArmorName": "True Locket."
+	},
+	"WitchHat": {
+		"Attributes": [],
+		"Description": "A hat that was stolen straight from a witch. When damaged, it'll make you invulnerable for 0.3 seconds.",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 10,
+		"ArmorName": "Witch hat"
+	},
+	"SansEgg": {
+		"Attributes": [],
+		"Description": "Yes, that's right! Sans is an EGG!",
+		"Permanent": true,
+		"Icon": 0,
+		"Legacy": true,
+		"HPBonus": 20,
+		"ArmorName": "Sans egg"
+	}
+}

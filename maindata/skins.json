@@ -1,0 +1,128 @@
+{
+	"RancerStick": {
+		"Description": "Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer",
+		"WeaponName": "Stick (Rancer Edition)",
+		"Attributes": [],
+		"SkinOf": "Stick",
+		"Rarity": "GamePass"
+	},
+	"RancerPan": {
+		"Description": "Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer",
+		"WeaponName": "Burnt Pan (Rancer Edition)",
+		"Attributes": [],
+		"SkinOf": "BurntPan",
+		"Rarity": "GamePass"
+	},
+	"MarhsmallowStick": {
+		"Description": "WOAAAAH!!!!",
+		"WeaponName": "Nuclear Bomb",
+		"Attributes": [],
+		"SkinOf": "EPICStick",
+		"Rarity": "Creator"
+	},
+	"RancerToyKnife": {
+		"Description": "Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer",
+		"WeaponName": "Toy Knife (Rancer Edition)",
+		"Attributes": [],
+		"SkinOf": "ToyKnife",
+		"Rarity": "GamePass"
+	},
+	"NewSeriousStaff": {
+		"Description": "This staff means seriousness. Rewarded from defeating The \"Pibby Toilet\", nothing will be in your way. Press Q (B on console) to spawn an army of toilets, and E (X on consoles) to cast an HP draining laser. Gets more powerful the stronger slop weapons you own.",
+		"WeaponName": "Serious Staff",
+		"Attributes": [],
+		"SkinOf": "ToiletStaff",
+		"Rarity": "Serious"
+	},
+	"JolliestGift": {
+		"Description": "Spread the joy of christmas with this gift!",
+		"WeaponName": "Jolliest Gift",
+		"Attributes": [],
+		"SkinOf": "MusicalKnife",
+		"Rarity": "Jolly"
+	},
+	"CoolKnife": {
+		"Description": "[REDACTED]",
+		"WeaponName": "[TEST] Cool Knife",
+		"Attributes": [],
+		"SkinOf": "TrueKnife",
+		"Rarity": "Creator"
+	},
+	"RancerDagger": {
+		"Description": "Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer",
+		"WeaponName": "Worn Dagger (Rancer Edition)",
+		"Attributes": [],
+		"SkinOf": "WornDagger",
+		"Rarity": "GamePass"
+	},
+	"RancerNoteBook": {
+		"Description": "Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer",
+		"WeaponName": "Torn Notebook (Rancer Edition)",
+		"Attributes": [],
+		"SkinOf": "TornNotebook",
+		"Rarity": "GamePass"
+	},
+	"Birdnote": {
+		"Description": "The Bird will help you.",
+		"WeaponName": "BIRDNOTE",
+		"Attributes": [],
+		"SkinOf": "Michaelnote",
+		"Rarity": "Serious"
+	},
+	"SeriousStaff": {
+		"Description": "poopoo staff",
+		"WeaponName": "(In Mario voice) Hey it's me, Mario!\nLet's eat a mushroom!\nMmm, delicious, delicious.\nOh no, it's making my stomach all grumbly.\nThis mushroom is gonna give me the poo-poo's.\n(Farting noise)\nOh I'm farting, no one can touch me, I smell so bad it kills all the bad guys, but I cannot\n\nstop running.\nWeeeeeee.\nOh, I'm making the water dirty.\n\nHey there's Bowser.\nNo!\nDon't put the fire on the fart!",
+		"Attributes": [],
+		"SkinOf": "ToiletStaff",
+		"Rarity": "Common"
+	},
+	"IceKnife": {
+		"Description": "Oh cool. It froze. Oh and this is literally just a dagger covered in ice.",
+		"WeaponName": "Ice Knife",
+		"Attributes": [],
+		"SkinOf": "WornDagger",
+		"Rarity": "Uncommon"
+	},
+	"CharcoalStick": {
+		"Description": "Literally a stick made out of charcoal, with charcoal. You have been a naughty one, haven't you?",
+		"WeaponName": "Charcoal on a Stick",
+		"Attributes": [],
+		"SkinOf": "Stick",
+		"Rarity": "Common"
+	},
+	"CandyKnife": {
+		"Description": "No! Stop! Don't eat it!",
+		"WeaponName": "Candy Knife",
+		"Attributes": [],
+		"SkinOf": "RealKnife",
+		"Rarity": "Determination"
+	},
+	"SnowyGlove": {
+		"Description": "A red glove covered in snow.",
+		"WeaponName": "Snowy glove",
+		"Attributes": [],
+		"SkinOf": "ToughGlove",
+		"Rarity": "Common"
+	},
+	"RETROKatana": {
+		"Description": "so retro...",
+		"WeaponName": "Retro Katana",
+		"Attributes": [],
+		"SkinOf": "CorruptKatana",
+		"Rarity": "Common"
+	},
+	"RancerToughGlove": {
+		"Description": "Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer",
+		"WeaponName": "Tough Glove (Rancer Edition)",
+		"Attributes": [],
+		"SkinOf": "ToughGlove",
+		"Rarity": "GamePass"
+	},
+	"GrinchBook": {
+		"Description": "Oh cool! A pretty ORIGINAL and good book. it's not like it has been made before!",
+		"WeaponName": "'The green human who ruined christmas' book",
+		"Attributes": [],
+		"SkinOf": "TornNotebook",
+		"Rarity": "Epic"
+	}
+}

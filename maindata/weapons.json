@@ -1,0 +1,813 @@
+{
+	"Fork": {
+		"Description": "Wow! Fork",
+		"WeaponName": "Comically Large Fork",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"LeadPipe": {
+		"Description": "Wiw! Lead Oiuipe!",
+		"WeaponName": "Lead Pipe",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"DoggoWeapon": {
+		"Description": "gear thing",
+		"WeaponName": "Doge's Custom Weapon",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": false
+	},
+	"Spear": {
+		"Description": "spear thing",
+		"WeaponName": "Undyne's spear",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"RealKnife": {
+		"Description": "About time. Special Ability unlocked when using Determination and The Locket: by pressing Q/B, you can throw the knife.",
+		"WeaponName": "Real Knife",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 0.7
+		},
+		"Permanent": false
+	},
+	"ToiletStaff": {
+		"Description": "look like he dropy Fun summon thingamajiggy",
+		"WeaponName": "Toilet Staff",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"GBlast": {
+		"Description": "AAAAAAAAA",
+		"WeaponName": "Gaster Blaster",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 50
+		},
+		"Permanent": true
+	},
+	"Bacon": {
+		"Description": "OH YES. THAT'S RIGHT. GOOD WEAPON, RIGHT?",
+		"WeaponName": "BACON",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 2
+		},
+		"Permanent": true
+	},
+	"TURTLEAXE": {
+		"Description": "Oh my god. IT'S SONIC.EXE !  !! !! !!! 11111111111111111111111",
+		"WeaponName": "SCARY AXE",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 60
+		},
+		"Permanent": true
+	},
+	"WornDagger": {
+		"Description": "Perfect for cutting plants and vines.",
+		"WeaponName": "Worn Dagger",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1.5
+		},
+		"Permanent": false
+	},
+	"SoulSword2": {
+		"Description": "RELEASED BY BOWTIEDPONY",
+		"WeaponName": "SOUL SWORD 2",
+		"Legacy": false,
+		"Attributes": {
+			"Restricted": true
+		},
+		"Permanent": true
+	},
+	"Balloon": {
+		"Description": "Oh... you're holding it..? Suit yourself. You creature...",
+		"WeaponName": "Springtrap001 Balloon",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1.1
+		},
+		"Permanent": true
+	},
+	"Scythe": {
+		"Description": "[UNFINISHED] It runs by your trait. Has multiple abilities depending on which soul you are using.",
+		"WeaponName": "Scythe",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 3
+		},
+		"Permanent": true
+	},
+	"HpyerCrazyStaff": {
+		"Description": "crzvbazxtye staff",
+		"WeaponName": "Hpyer Crzay s TUFF. (test weapon)",
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"SansTestWeapon": {
+		"Description": "For abusing sans",
+		"WeaponName": "Sans Test weapon",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"Devilsknife": {
+		"Description": "Skull-emblazoned scythe-ax.",
+		"WeaponName": "Devilsknife",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 0.75
+		},
+		"Permanent": true
+	},
+	"CameraGunForBattle": {
+		"Description": "awasosa gub",
+		"WeaponName": "Camera Gun (Battle)",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"CandyCane": {
+		"Description": "Oh yes! It's sweet, but fitting.",
+		"WeaponName": "Candy Cane",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 3
+		},
+		"Permanent": true
+	},
+	"TrueKnife": {
+		"Description": "Only knife more true than Real Knife.",
+		"WeaponName": "True Knife.",
+		"Legacy": false,
+		"Attributes": {
+			"Restricted": true,
+			"SlopUpgradePriceFactor": 0.7
+		},
+		"Permanent": true
+	},
+	"SPONGEBOBSWORD": {
+		"Description": "(RIP STEPHEN HILLENBURG)",
+		"WeaponName": "SPONGEBOB SWORD",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 2
+		},
+		"Permanent": true
+	},
+	"TURTLESWORD": {
+		"Description": "OMGOGMOGMGO SO OP",
+		"WeaponName": "TURTL SWIRD",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"BaneStaff": {
+		"Description": "OH MY God.",
+		"WeaponName": "Dasli Staff",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"LexScythe": {
+		"Description": "Recreate the FNaF 6 ending.",
+		"WeaponName": "Lighter",
+		"Legacy": false,
+		"Attributes": {
+			"Restricted": true
+		},
+		"Permanent": true
+	},
+	"TheOhioSlammer": {
+		"Description": "Only in ohio-o-o",
+		"WeaponName": "The Ohio Slammer",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 0.75
+		},
+		"Permanent": true
+	},
+	"Stick": {
+		"Description": "Its bark is worse than its bite.",
+		"WeaponName": "Stick",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"OhioFlag": {
+		"Description": "An OHIOIAN flag.",
+		"WeaponName": "OHIOIAN Flag",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 0.75
+		},
+		"Permanent": true
+	},
+	"SINZGun": {
+		"Description": "[INFORMATION CORRUPT]",
+		"WeaponName": "Corrupt Gun",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": "0.8"
+		},
+		"Permanent": false
+	},
+	"WinnersSword": {
+		"Description": "Taste of your victory.",
+		"WeaponName": "Sword of Victory",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"Slasher": {
+		"Description": "SLASH,.,,.,",
+		"WeaponName": "Slasher",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 0.1
+		},
+		"Permanent": true
+	},
+	"Trident": {
+		"Description": "trident thing with weird face in it",
+		"WeaponName": "Trident",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 2
+		},
+		"Permanent": true
+	},
+	"AuthenticTrident": {
+		"Description": "I don't even know. Buy it i guess? For sure it isn't Asgore's trident.",
+		"WeaponName": "Authentic Trident",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 2
+		},
+		"Permanent": true
+	},
+	"Michaelnote": {
+		"Description": "WHAT!?!?!? WHY DO YOU HAVE THIS!?!??!?? You foul creature.",
+		"WeaponName": "MICHAELNOTE",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"RancerBlade": {
+		"Description": "Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer Rancer",
+		"WeaponName": "Rancer Blade",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 2
+		},
+		"Permanent": true
+	},
+	"HammerofBadTime": {
+		"Description": "After countless of Sans' murders across the universes, SINZ crafted this powerful weapon. Holding this makes you feel powerful, also sins.",
+		"WeaponName": "Hammer of Bad Time",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"DTBlaster": {
+		"Description": "op thing",
+		"WeaponName": "Determination Blaster",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 50
+		},
+		"Permanent": true
+	},
+	"BurntPan": {
+		"Description": "Damage is rather consistent.",
+		"WeaponName": "Burnt Pan",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 5
+		},
+		"Permanent": false
+	},
+	"LastBreathBone": {
+		"Description": "He",
+		"WeaponName": "Last Breatdth SUPER Bone",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"HyperfireSword": {
+		"Description": "Hyper Fire KIlls All Enemys",
+		"WeaponName": "HyerFire Sword",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"GrimaceShake": {
+		"Description": "BECOME INFECTED BY THE MILKSHAKE AND GAIN SUPER ABILITIES!",
+		"WeaponName": "GRIMS MILKSHAKE",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"SoundPlayer": {
+		"Description": "With this brand new sound player, your Content will be supreme! But be Warned, it cannot defend you.",
+		"WeaponName": "Sound Player",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"ShrekSword": {
+		"Description": "COMING BACK FROM OFFBRAND UTMM... THE SHREK SWORD!",
+		"WeaponName": "Shrek Sword",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"BonmuchoCane": {
+		"Description": "Wait.. how did you manage to even obtain this?!?!?!",
+		"WeaponName": "Hans Moleman's Cane",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": "2.5"
+		},
+		"Permanent": true
+	},
+	"ToughGlove": {
+		"Description": "A worn pink leather glove. For five fingered folk.",
+		"WeaponName": "Tough Glove",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": "3"
+		},
+		"Permanent": false
+	},
+	"LegendaryDogSword": {
+		"Description": "So strong. Yes. You know it is good. Hey wait I think it has that artifact inside it.",
+		"WeaponName": "Legendary dog Sword",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 0.6
+		},
+		"Permanent": true
+	},
+	"BTools": {
+		"Description": "Building!",
+		"WeaponName": "Building Tools by F3X",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"CameraGun": {
+		"Description": "awasosa gub",
+		"WeaponName": "Camera Gun",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": "0.75"
+		},
+		"Permanent": true
+	},
+	"CursedSword": {
+		"Description": "For some reason it was being carried by the master of illusions.. kind of odd...this weapon curses you when you press Q/B (on Xbox)",
+		"WeaponName": "Cursed Sword",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 0.9
+		},
+		"Permanent": true
+	},
+	"Zombie": {
+		"Description": "andy corpse yt",
+		"WeaponName": "Zombie Free Model",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"TOAD": {
+		"Description": "TOAD",
+		"WeaponName": "TOAD",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"GreenITEM": {
+		"Description": "The power of GREENS?",
+		"WeaponName": "Greens ITEM",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"BellOfHatred": {
+		"Description": "i hate you",
+		"WeaponName": "Bell of Hatred",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 20
+		},
+		"Permanent": true
+	},
+	"OhioTractor": {
+		"Description": "you see your super gaming house demolished by a tractor.",
+		"WeaponName": "Ohioan Tractor",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"ToySword": {
+		"Description": "Made out of plastic.",
+		"WeaponName": "Toy Sword",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"IronManHand": {
+		"Description": "🇺🇸🇺🇸🇺🇸",
+		"WeaponName": "Airstrike",
+		"Legacy": false,
+		"Attributes": {
+			"Restricted": true
+		},
+		"Permanent": true
+	},
+	"RainbowStick": {
+		"Description": "*insert clever joke about color here*",
+		"WeaponName": "Rainbow Stick",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1.5
+		},
+		"Permanent": true
+	},
+	"HAKKSword": {
+		"Description": "Here we go again. Ironically, this weapon is weaker than the stick counterpart.",
+		"WeaponName": "HAKK Sword",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 2
+		},
+		"Permanent": true
+	},
+	"BaseballBat": {
+		"Description": "Brought from school. A bit used.",
+		"WeaponName": "Baseball Bat",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": false
+	},
+	"ULFSword": {
+		"Description": "For some reason when ULF Dummy dropped it. He turned into it so you are taking a good care of it now (even feeding it because it has little mouths for that.)",
+		"WeaponName": "ULF Sword",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 2
+		},
+		"Permanent": true
+	},
+	"HyperStaff": {
+		"Description": "for doge only",
+		"WeaponName": "Staff of Hyperdeath",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"IronFist": {
+		"Description": "Rule them with an iron fist. Someone attempted to remake infinity gauntlet, but this was the end result.",
+		"WeaponName": "Iron Fist",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"CoolSword": {
+		"Description": "HOW THE HELL CAN YOU EVEN USE THIS",
+		"WeaponName": "Cool Sword",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1.5
+		},
+		"Permanent": true
+	},
+	"NikoWeapon": {
+		"Description": "gear thing",
+		"WeaponName": "Niko's Custom Weapon",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"Fnaf2Camera": {
+		"Description": "ENEGRYES IS INFITE! :D",
+		"WeaponName": "Fnaf 2 Camera",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"NikosBulletHell": {
+		"Description": "wip",
+		"WeaponName": "NIKOS BULLET HELL DO NOT USE",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"ChocolateMilk": {
+		"Description": "You got that from the Dummy Market. Thats the finest chocolate milk they had.",
+		"WeaponName": "Chocolate Milk",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": false
+	},
+	"NogginSword": {
+		"Description": "UT MM Lost Media!",
+		"WeaponName": "Noggin Sword",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"Drone": {
+		"Description": "Incredible! Drone! Yay!",
+		"WeaponName": "Drone",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 0.2
+		},
+		"Permanent": true
+	},
+	"CameraRifleForBattle": {
+		"Description": "skelobaba sklobo",
+		"WeaponName": "Camera Rifle (Battle)",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"ULTIMATEHAMMER": {
+		"Description": "GET THE ULTIMATE HAMMER AND DESTROY THE NPCS!",
+		"WeaponName": "ULTIMATE HAMMER",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"NoobzPhone": {
+		"Description": "Idk why i created this",
+		"WeaponName": "Noobz Phone",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": false
+	},
+	"TornNotebook": {
+		"Description": "Contains illegible scrawls.",
+		"WeaponName": "Torn Notebook",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 2
+		},
+		"Permanent": false
+	},
+	"HAKKKnife": {
+		"Description": "After the Unrivaled Lord of HAKK fell, this knife fell out of his pocket. Why was it there? Who knows...",
+		"WeaponName": "HAKK Knife",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 0.7
+		},
+		"Permanent": true
+	},
+	"TheTesseract": {
+		"Description": "Wowza! An object beyond human comprehension! It can be used to transcend your stats to LV 100 Reset 20.",
+		"WeaponName": "The Tesseract",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"SweetVoice": {
+		"Description": "i'm not human.",
+		"WeaponName": "Black Mesa Sweet Voice",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"HAKKStick": {
+		"Description": "White Evil hakked the monsters and somehow, HAKKED dog dropped this on it's way.",
+		"WeaponName": "HAKK Stick",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"MusicalKnife": {
+		"Description": "There's a pipe bomb in your inventory.",
+		"WeaponName": "Pipe Bomb",
+		"Legacy": false,
+		"Attributes": {
+			"Restricted": true
+		},
+		"Permanent": true
+	},
+	"CameraRifle": {
+		"Description": "skelobaba sklobo",
+		"WeaponName": "Camera Rifle",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 10
+		},
+		"Permanent": true
+	},
+	"PumpkinSickle": {
+		"Description": "It burns with your urge to fight. Press Q/B (on Xbox) to activate fire mode for 10 seconds.",
+		"WeaponName": "Pumpkin Sickle",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"BoneAxe": {
+		"Description": "An axe made of bones. How convenient. Press Q/B (on Xbox) to throw 3 but painful bones towards enemies.",
+		"WeaponName": "Bone Axe",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"TRUETURTLEAXE": {
+		"Description": "THE POWER!!! THE GLORY!!!! THE TRUE TURTLES!!!!!!",
+		"WeaponName": "TURTLE AXE",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 60
+		},
+		"Permanent": true
+	},
+	"HammerOfDoom": {
+		"Description": "doom thing",
+		"WeaponName": "Hammer of Doom",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"EmptyGun": {
+		"Description": "An antique revolver. It has no ammo.",
+		"WeaponName": "Empty Gun",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 2.5
+		},
+		"Permanent": false
+	},
+	"ToyKnife": {
+		"Description": "Made of plastic. A rarity nowadays.",
+		"WeaponName": "Toy Knife",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1.25
+		},
+		"Permanent": false
+	},
+	"CorruptKatana": {
+		"Description": "[INFORMATION CORRUPT]",
+		"WeaponName": "Corrupt Katana",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": false
+	},
+	"EPICStick": {
+		"Description": "OKAY, THIS IS The Bird.",
+		"WeaponName": "The Bird Stick",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 10
+		},
+		"Permanent": true
+	},
+	"TURTLESWORD2": {
+		"Description": "WHAT..? IT'S ACTUALLY DAMAGING?!?!!?",
+		"WeaponName": "TURTLE SWORD 2",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 60
+		},
+		"Permanent": true
+	},
+	"SubspaceTripmine": {
+		"Description": "fnb referernce.........",
+		"WeaponName": "Subspace Tripmine",
+		"Legacy": false,
+		"Attributes": {
+			"Restricted": true
+		},
+		"Permanent": true
+	},
+	"ORANGEKNIFE": {
+		"Description": "THE ONE USED TO ASSASSINATE ANDY",
+		"WeaponName": "HIS KNIFE",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 50
+		},
+		"Permanent": true
+	},
+	"Bones": {
+		"Description": "WHAT IS THIS WEAPON?!?!?!",
+		"WeaponName": "Bones",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": false
+	},
+	"InfinityGauntlet": {
+		"Description": "op thing",
+		"WeaponName": "Infinity Gauntlet",
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"BalletShoes": {
+		"Description": "These used shoes make you feel incredibly dangerous.",
+		"WeaponName": "Ballet Shoes",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1.75
+		},
+		"Permanent": false
+	},
+	"PILLOW": {
+		"Description": "IT'S A PIECE OF ME.",
+		"WeaponName": "PILLOW",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 2
+		},
+		"Permanent": true
+	},
+	"YTsword": {
+		"Description": "OH YES! That's right! this is the sword!",
+		"WeaponName": "Youtuber Sword",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	},
+	"HolyStick": {
+		"Description": "THE HOLIEST WEAPON OF THEM ALL",
+		"WeaponName": "THE HOLY STICK",
+		"Legacy": true,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 33.333333333333336
+		},
+		"Permanent": true
+	},
+	"TheMoon": {
+		"Description": "DO NOT USE.",
+		"WeaponName": "Moon",
+		"Legacy": false,
+		"Attributes": {
+			"Restricted": true
+		},
+		"Permanent": true
+	},
+	"Ambulance": {
+		"Description": "Ambualcne",
+		"WeaponName": "Ambulance",
+		"Legacy": false,
+		"Attributes": {
+			"SlopUpgradePriceFactor": 1
+		},
+		"Permanent": true
+	}
+}

@@ -1,0 +1,363 @@
+{
+	"Egg": {
+		"EnchantSOUL": false,
+		"Fragments": 0,
+		"Description": "Egg",
+		"SoulName": "Egg",
+		"Color": [
+			199,
+			172,
+			120
+		],
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"Bravery": {
+		"EnchantSOUL": false,
+		"Fragments": 5,
+		"Description": "2%+ Damage boost everytime you get damaged",
+		"Color": [
+			255,
+			128,
+			0
+		],
+		"Shop": "SOULs",
+		"Attributes": [],
+		"SoulName": "Bravery",
+		"Legacy": true,
+		"Permanent": false
+	},
+	"VeryCool": {
+		"EnchantSOUL": false,
+		"Fragments": 100,
+		"Description": "wow!!! very cool ability!!! by cool kid!!!",
+		"SoulName": "Very Cool Ability",
+		"Color": [
+			255,
+			85,
+			255
+		],
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"MemeStealer": {
+		"EnchantSOUL": false,
+		"Fragments": 1233,
+		"Description": "The Bird will protect you. 😃",
+		"SoulName": "The Bird SOUL",
+		"Color": [
+			56,
+			56,
+			56
+		],
+		"Legacy": false,
+		"Attributes": {
+			"Restricted": true
+		},
+		"Permanent": true
+	},
+	"Basic": {
+		"EnchantSOUL": false,
+		"Fragments": 0,
+		"Description": "A SOUL with no trait. Basically a monster SOUL, except it can't produce magic.",
+		"SoulName": "Basic",
+		"Color": [
+			163,
+			162,
+			165
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"God": {
+		"EnchantSOUL": false,
+		"Fragments": 0,
+		"Description": "i am god",
+		"SoulName": "god",
+		"Color": [
+			255,
+			251,
+			134
+		],
+		"Legacy": false,
+		"Attributes": {
+			"Restricted": true
+		},
+		"Permanent": true
+	},
+	"HATE": {
+		"EnchantSOUL": false,
+		"Fragments": 3,
+		"Description": "OH MY PIBBIES...",
+		"SoulName": "PIBBY",
+		"Color": [
+			30,
+			30,
+			30
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"Integrity": {
+		"EnchantSOUL": false,
+		"Fragments": 5,
+		"Description": "Jump and speed boost",
+		"SoulName": "Integrity",
+		"Color": [
+			0,
+			0,
+			255
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": false
+	},
+	"Blues": {
+		"EnchantSOUL": false,
+		"Fragments": 5,
+		"Description": "YOU'RE BLUE NOW. *EVIL LAUGHTER*",
+		"SoulName": "BLUE Soul.",
+		"Color": [
+			0,
+			0,
+			255
+		],
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": false
+	},
+	"Kindness": {
+		"EnchantSOUL": false,
+		"Fragments": 5,
+		"Description": "Heals you every 20 seconds",
+		"SoulName": "Kindness",
+		"Color": [
+			0,
+			195,
+			0
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": false
+	},
+	"LegacyPerseverance": {
+		"EnchantSOUL": false,
+		"Fragments": 5,
+		"Description": "Press E (on PC) or X (on Xbox) to teleport anywhere near your character.",
+		"SoulName": "Retro Perseverance",
+		"Color": [
+			215,
+			50,
+			215
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": false
+	},
+	"Rancer": {
+		"EnchantSOUL": false,
+		"Fragments": 0,
+		"Description": "You have shown so much of your prestige towards Rancer, that you gained the most rizztastic trait. Rancer trait. It makes you use 0.00000001% of Rancer's rizz to erase half of your enemies' HP.",
+		"SoulName": "Rancer Rancer Rancer Rancer Rancer",
+		"Color": [
+			255,
+			0,
+			255
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"FEAR": {
+		"EnchantSOUL": false,
+		"Fragments": 0,
+		"Description": "There's something behind you.",
+		"SoulName": "SOMETHING",
+		"Color": [
+			47,
+			47,
+			47
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"Lex": {
+		"EnchantSOUL": false,
+		"Fragments": 0,
+		"Description": "KONO DIO DAAA DOMDCIEQWE MQWEIOQ JOJO! JOJO ! JOJO ! JOJO ! JOJO ! JOJO ! ORAAAA MUDAMUDAMUDAMUDAMUADMUDAMUDA",
+		"SoulName": "ZA WARUDO!1!!",
+		"Color": [
+			255,
+			255,
+			0
+		],
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"EpicSOUL": {
+		"EnchantSOUL": false,
+		"Fragments": 6666,
+		"Description": "Oh my god. STOPPP ITTT",
+		"SoulName": "Legendary Pipe Bomb SOUL",
+		"Color": [
+			255,
+			151,
+			103
+		],
+		"Legacy": false,
+		"Attributes": {
+			"Restricted": true
+		},
+		"Permanent": true
+	},
+	"Determination": {
+		"EnchantSOUL": false,
+		"Fragments": 5,
+		"Description": "Revives you once when you die",
+		"SoulName": "Determination",
+		"Color": [
+			255,
+			0,
+			0
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": false
+	},
+	"MusicalSOUL": {
+		"EnchantSOUL": false,
+		"Fragments": 0,
+		"Description": "You have pierced heaven.",
+		"SoulName": "Sans UT MM",
+		"Color": [
+			0,
+			101,
+			179
+		],
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"TrueSOULnoattackboost": {
+		"EnchantSOUL": false,
+		"Fragments": 0,
+		"Description": "Same as true soul except no attack boost.",
+		"SoulName": "True SOUL 0.5.",
+		"Color": [
+			149,
+			0,
+			255
+		],
+		"Legacy": false,
+		"Attributes": {
+			"Restricted": true
+		},
+		"Permanent": true
+	},
+	"LegacyJustice": {
+		"EnchantSOUL": false,
+		"Fragments": 5,
+		"Description": "By pressing E (on PC) or X (on Xbox) to shoot anywhere.",
+		"SoulName": "Retro Justice",
+		"Color": [
+			255,
+			255,
+			0
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": false
+	},
+	"Perseverance": {
+		"EnchantSOUL": false,
+		"Fragments": 5,
+		"Description": "Gives you a forcefield everytime you get hurt. Everytime you get hurt, the forcefield time increases. Stacks with Cloudy Glasses.",
+		"SoulName": "Perseverance",
+		"Color": [
+			215,
+			50,
+			215
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": false
+	},
+	"Green": {
+		"EnchantSOUL": false,
+		"Fragments": 5,
+		"Description": "WOOW! GREEN\ngives the GREENS ITEM a new ability...",
+		"SoulName": "Green",
+		"Color": [
+			0,
+			255,
+			0
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"Patience": {
+		"EnchantSOUL": false,
+		"Fragments": 5,
+		"Description": "By pressing E (X on Xbox), you will be immune to attacks for 5 seconds with a 20 second cooldown.",
+		"SoulName": "Patience",
+		"Color": [
+			0,
+			255,
+			255
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": false
+	},
+	"JoyconSoul": {
+		"EnchantSOUL": false,
+		"Fragments": 0,
+		"Description": "Gives you the ability to split your SOUL to half",
+		"SoulName": "W.I.P",
+		"Color": [
+			255,
+			0,
+			127
+		],
+		"Legacy": false,
+		"Attributes": [],
+		"Permanent": true
+	},
+	"Justice": {
+		"EnchantSOUL": false,
+		"Fragments": 5,
+		"Description": "By pressing E (X on Xbox) you can summon a turret shooting at one direction.",
+		"SoulName": "Justice",
+		"Color": [
+			255,
+			255,
+			0
+		],
+		"Legacy": true,
+		"Attributes": [],
+		"Permanent": false
+	},
+	"TrueSOUL": {
+		"EnchantSOUL": false,
+		"Fragments": 0,
+		"Description": "GOD GOD GOD GOD.. God?",
+		"SoulName": "True SOUL.",
+		"Color": [
+			185,
+			20,
+			255
+		],
+		"Legacy": false,
+		"Attributes": {
+			"Restricted": true
+		},
+		"Permanent": true
+	}
+}

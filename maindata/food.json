@@ -1,0 +1,254 @@
+{
+	"Egg": {
+		"Attributes": [],
+		"Description": "Egg",
+		"SellAmount": 0.1,
+		"Max": 8,
+		"Legacy": false,
+		"Permanent": false,
+		"FoodName": "Egg"
+	},
+	"SuperHero": {
+		"Attributes": [],
+		"Description": "A possibly radioactive sandwich that increases your damage by 280%. We are not sure about side effects.",
+		"SellAmount": 10000,
+		"Max": 1,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Radioactive Hero"
+	},
+	"TemmieFlakes": {
+		"Attributes": [],
+		"Description": "It's just torn up pieces of colored construction paper.",
+		"SellAmount": 1,
+		"Max": 8,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Temmie Flakes"
+	},
+	"RancerSoda": {
+		"Attributes": [],
+		"Description": "Oh yes. The most based soda that goes hard. So bussin that it boosts your damage. So sigma, THAT IT RENEWS BY ITSELF.",
+		"SellAmount": 0,
+		"Max": 1,
+		"Legacy": true,
+		"Permanent": true,
+		"FoodName": "Rancer Soda"
+	},
+	"ButterscotchPie": {
+		"Attributes": [],
+		"Description": "Butterscotch-cinnamon pie, one slice.",
+		"SellAmount": 750,
+		"Max": 2,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Butterscotch Pie"
+	},
+	"WokeFries": {
+		"Attributes": [],
+		"Description": "The Woke Fries... A Classic .. Wokedonald meals.",
+		"SellAmount": 1250,
+		"Max": 1,
+		"Legacy": false,
+		"Permanent": false,
+		"FoodName": "Woke Fries"
+	},
+	"MonsterCandy": {
+		"Attributes": [],
+		"Description": "Has a distinct, non-licorice flavor.",
+		"SellAmount": 13,
+		"Max": 8,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Monster Candy"
+	},
+	"PATRIOTICBURGER": {
+		"Attributes": [],
+		"Description": "TIRED OF THE Wokedonalds burgers? Want a burger with REAL MEAT? And, patriotism? This burger is the perfect option for you! COSTS Only  $741,776",
+		"SellAmount": 370888,
+		"Max": 1,
+		"Legacy": false,
+		"Permanent": false,
+		"FoodName": "PATRIOTIC BURGER 🦅🦅🦅🇺🇸🇺🇸🇺🇸"
+	},
+	"SpiderDonut": {
+		"Attributes": [],
+		"Description": "A donut made with Spider Cider in the batter.",
+		"SellAmount": 4,
+		"Max": 8,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Spider Donut"
+	},
+	"UTMMLY": {
+		"Attributes": [],
+		"Description": "With UTMMLY, you get double the amount of liquid. Sea tea has no sugar added, more electrolytes and more B-Vitamins. Legendary Hero. BOOOOO!!!!!!!! Radioactive Hero. YEAHHHHHH!!!!!!!! Our pie uses real butter, our opponent's pies say they use \"Butter Pasteurized Prepared Butter Product.\" They can't even call it real butter. Oooh! UTMMLY also has 30 less calories, 3 less grams of fat and 8 less grams of sugar. If you look at this closeup, you can already tell which one has better ingredients. Alright, lets start off with our competitor's pie. Bro, im sorry, but thats trash. Alright, now we are trying out UTMMLY. Come on, we're not biased at all, but ours is way better. Come in close, and look at the sea tea in UTMMLY vs whatever that is. Slip vs stick, I like my sea tea slippy bruh. This is a bit of UTMMLY tea, look at the consistency, the texture. This is our competitors.",
+		"SellAmount": 350,
+		"Max": 1,
+		"Legacy": false,
+		"Permanent": false,
+		"FoodName": "UTMMly"
+	},
+	"WeirdCandy": {
+		"Attributes": [],
+		"Description": "he tryed to get",
+		"SellAmount": 0,
+		"Max": 1,
+		"Legacy": false,
+		"Permanent": true,
+		"FoodName": "Weird Candy"
+	},
+	"GoosePoop": {
+		"Attributes": [],
+		"Description": "😛",
+		"SellAmount": 1172,
+		"Max": 1,
+		"Legacy": false,
+		"Permanent": false,
+		"FoodName": "Goose poopoo"
+	},
+	"NiceCream": {
+		"Attributes": [],
+		"Description": "Instead of a joke, the wrapper says something nice.",
+		"SellAmount": 13,
+		"Max": 8,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Nice Cream"
+	},
+	"SWEDISHMEATBALLS": {
+		"Attributes": [],
+		"Description": "Jäg älskar Svenska Köttbullar! De är SUPER goda!",
+		"SellAmount": 3333,
+		"Max": 1,
+		"Legacy": false,
+		"Permanent": false,
+		"FoodName": "Svenska Köttbullar"
+	},
+	"CRAZYHAMBURGER": {
+		"Attributes": [],
+		"Description": "mmmmmmm",
+		"SellAmount": 0,
+		"Max": 1,
+		"Legacy": false,
+		"Permanent": true,
+		"FoodName": "crazy hamburg"
+	},
+	"MTTSteak": {
+		"Attributes": [],
+		"Description": "Huge steak in the shape of Mettaton's Face. (is it really made out of real meat?)",
+		"SellAmount": 250,
+		"Max": 8,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Steak in the Shape of Mettaton's Face"
+	},
+	"JunkFood": {
+		"Attributes": [],
+		"Description": "Food that was probably once thrown away.",
+		"SellAmount": 13,
+		"Max": 8,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Junk Food"
+	},
+	"KetoBread": {
+		"Attributes": [],
+		"Description": "Ketro bread is very GOOD and WOKE for you!",
+		"SellAmount": 300,
+		"Max": 8,
+		"Legacy": false,
+		"Permanent": false,
+		"FoodName": "Keto Bread"
+	},
+	"PronounBurger": {
+		"Attributes": [],
+		"Description": "The Wokedonalds.. are corruption the buregr.. AHHHHHH!!!!! Ohio",
+		"SellAmount": 1000,
+		"Max": 1,
+		"Legacy": false,
+		"Permanent": false,
+		"FoodName": "Pronoun Burger"
+	},
+	"PlantBasedBurger": {
+		"Attributes": [],
+		"Description": "This burger is 100% plant based! Amazing for the WOKE!",
+		"SellAmount": 2500,
+		"Max": 1,
+		"Legacy": false,
+		"Permanent": false,
+		"FoodName": "Plant Based Burger"
+	},
+	"GlutenFreeShake": {
+		"Attributes": [],
+		"Description": "NO ANimals were FARMED in the making of this WOKE drink.  It is so woke, that it makes you GO FASTER! We do not know what it is truly made out of.",
+		"SellAmount": 1750,
+		"Max": 1,
+		"Legacy": false,
+		"Permanent": false,
+		"FoodName": "Gluten Free Shake"
+	},
+	"HotDog": {
+		"Attributes": [],
+		"Description": "The \"meat\" is made of something called a \"water sausage\".",
+		"SellAmount": 15,
+		"Max": 8,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Hot Dog...?"
+	},
+	"LHero": {
+		"Attributes": [],
+		"Description": "Sandwich shaped like a sword. Increases damage by 4% when eaten.",
+		"SellAmount": 150,
+		"Max": 4,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Legendary Hero"
+	},
+	"Grass": {
+		"Attributes": [],
+		"Description": "From the ground. Gross.",
+		"SellAmount": 1250,
+		"Max": 8,
+		"Legacy": false,
+		"Permanent": false,
+		"FoodName": "Grass"
+	},
+	"SeaTea": {
+		"Attributes": [],
+		"Description": "Made from glowing marshwater. For whatever reasons, it increases your speed.",
+		"SellAmount": 9,
+		"Max": 8,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Sea Tea"
+	},
+	"BaggaShrimps": {
+		"Attributes": [],
+		"Description": "LOTSA 💵💵💵💵💵🤑🤑🤑💰💰💹💹",
+		"SellAmount": 0,
+		"Max": 1,
+		"Legacy": false,
+		"Permanent": true,
+		"FoodName": "Bag of Money"
+	},
+	"Glamburger": {
+		"Attributes": [],
+		"Description": "A hamburger made of edible glitter and sequins.",
+		"SellAmount": 60,
+		"Max": 8,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Glamburger"
+	},
+	"PopatoChisps": {
+		"Attributes": [],
+		"Description": "Regular old popato chisps.",
+		"SellAmount": 14,
+		"Max": 8,
+		"Legacy": true,
+		"Permanent": false,
+		"FoodName": "Popato Chisps"
+	}
+}
